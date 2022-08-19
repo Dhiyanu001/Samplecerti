@@ -1,2 +1,2 @@
 # Samplecerti
-This is a github tut for google certification
+This is a github tut for google certification. I am editing the README file. Adding some more details about the project description.
